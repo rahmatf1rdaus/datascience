@@ -1,0 +1,7 @@
+id: index data
+calories: the number of calories (in cal) per 100 grams of food/drink
+proteins: the amount of protein (in grams) per 100 grams of food/drink
+fat: the amount of fat (in grams) per 100 grams of food/drink
+carbohydrate: the amount of carbohydrates (in grams) per 100 grams of food/drink
+name: name of food/drink
+image: link to food/drink images
